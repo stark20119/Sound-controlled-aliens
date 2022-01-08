@@ -1,0 +1,34 @@
+body {
+
+    background-color: rgb(90, 90, 161);
+    color: mintcream;
+    font-family: 'Oswald', sans-serif;
+}
+
+.headerdiv {
+
+    background-color: burlywood;
+    color: brown;
+
+}
+
+.Copyrightfooter {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #a4ee44;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
+
+#start {
+    background-color: gray;
+    color: honeydew;
+    width: 100px;
+    margin-top: 30px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
